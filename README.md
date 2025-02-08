@@ -1,24 +1,15 @@
-# README
+### Rails Boilerplate
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a Rails boilerplate that includes the additions:
 
-Things you may want to cover:
+- FactoryBot
+- HotwireLivereload
+- Pry
+- RSpec
+- ShouldaMatchers
+- SimpleForm
+- TailwindCSS
+- ViewComponent
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+You'll want find and replace `rails_boilerplate` with your project name.
+You'll need to create a `config/master.key` and potentially update the `credentials.yml.enc` file.
