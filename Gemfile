@@ -26,6 +26,7 @@ end
 group :development, :test do
   gem "brakeman", require: false
   gem "pry-rails"
+  gem "rubocop-rails-omakase", "~> 1.0"
 end
 
 group :test do
