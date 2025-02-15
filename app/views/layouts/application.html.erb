@@ -23,7 +23,7 @@
     <%= javascript_include_tag "application", "data-turbo-track": Rails.env.production? ? "reload" : "", type: "module" %>
   </head>
 
-  <body>
+  <body class="bg-neutral-600">
     <%= yield %>
   </body>
 </html>

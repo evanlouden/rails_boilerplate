@@ -56,7 +56,7 @@ SimpleForm.setup do |config|
     # b.use :input, class: 'input', error_class: 'is-invalid', valid_class: 'is-valid'
     b.use :label, class: "block mb-2 text-sm font-medium text-gray-900"
     b.use :input,
-      class: "bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-lime-500 focus:border-lime-500 block w-full p-2.5",
+      class: "bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-indigo-500 focus:border-indigo-500 block w-full p-2.5",
       error_class: "border border-red-300 text-red-900 placeholder-red-300 focus:border-red-500"
     b.use :hint,  wrap_with: { tag: :span, class: :hint }
     b.use :error, wrap_with: { tag: :span, class: "text-red-500 text-sm italic" }
@@ -78,7 +78,7 @@ SimpleForm.setup do |config|
   config.boolean_style = :inline
 
   # Default class for buttons
-  config.button_class = "w-full bg-lime-500 hover:bg-lime-600 text-white font-medium py-2 px-4 rounded"
+  config.button_class = "w-full bg-indigo-500 hover:bg-indigo-600 text-white font-medium py-2 px-4 rounded"
 
   # Method used to tidy up errors. Specify any Rails Array method.
   # :first lists the first message for each field.
