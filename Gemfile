@@ -3,6 +3,7 @@ source "https://rubygems.org"
 # Use Active Model has_secure_password [https://guides.rubyonrails.org/active_model_basics.html#securepassword]
 # gem "bcrypt", "~> 3.1.7"
 gem "bootsnap", require: false
+gem "devise", "~> 4.9"
 # gem "image_processing", "~> 1.2"
 gem "jsbundling-rails"
 # gem "kamal", require: false
