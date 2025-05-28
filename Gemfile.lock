@@ -105,7 +105,7 @@ GEM
       responders
       warden (~> 1.2.3)
     diff-lcs (1.5.1)
-    drb (2.2.1)
+    drb (2.2.3)
     erubi (1.13.1)
     et-orbi (1.2.11)
       tzinfo
@@ -352,9 +352,9 @@ GEM
     unicode-emoji (4.0.4)
     uri (1.0.3)
     useragent (0.16.11)
-    view_component (3.21.0)
+    view_component (3.23.2)
       activesupport (>= 5.2.0, < 8.1)
-      concurrent-ruby (~> 1.0)
+      concurrent-ruby (~> 1)
       method_source (~> 1.0)
     warden (1.2.9)
       rack (>= 2.0.9)
@@ -400,7 +400,7 @@ DEPENDENCIES
   stimulus-rails
   tailwindcss-rails (~> 4.1)
   turbo-rails
-  view_component (~> 3.21)
+  view_component (~> 3.23)
 
 BUNDLED WITH
    2.6.2

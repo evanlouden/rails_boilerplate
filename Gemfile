@@ -18,7 +18,7 @@ gem "solid_queue"
 gem "stimulus-rails"
 gem "tailwindcss-rails", "~> 4.1"
 gem "turbo-rails"
-gem "view_component", "~> 3.21"
+gem "view_component", "~> 3.23"
 
 group :development do
   gem "hotwire-livereload", "~> 2.0"
