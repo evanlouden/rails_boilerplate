@@ -16,7 +16,7 @@ gem "solid_cable"
 gem "solid_cache"
 gem "solid_queue"
 gem "stimulus-rails"
-gem "tailwindcss-rails", "~> 4.1"
+gem "tailwindcss-rails", "~> 4.2"
 gem "turbo-rails"
 gem "view_component", "~> 3.23"
 
