@@ -23,6 +23,7 @@ gem "yaaf", "~> 3.0"
 
 group :development do
   gem "hotwire-livereload", "~> 2.0"
+  gem "lookbook", "~> 2.3"
 end
 
 group :development, :test do
