@@ -19,6 +19,7 @@ gem "stimulus-rails"
 gem "tailwindcss-rails", "~> 4.2"
 gem "turbo-rails"
 gem "view_component", "~> 3.23"
+gem "yaaf", "~> 3.0"
 
 group :development do
   gem "hotwire-livereload", "~> 2.0"
