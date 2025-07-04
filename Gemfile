@@ -1,5 +1,7 @@
 source "https://rubygems.org"
 
+ruby file: ".tool-versions"
+
 # Use Active Model has_secure_password [https://guides.rubyonrails.org/active_model_basics.html#securepassword]
 # gem "bcrypt", "~> 3.1.7"
 gem "bootsnap", require: false
@@ -19,9 +21,11 @@ gem "stimulus-rails"
 gem "tailwindcss-rails", "~> 4.2"
 gem "turbo-rails"
 gem "view_component", "~> 3.23"
+gem "yaaf", "~> 3.0"
 
 group :development do
   gem "hotwire-livereload", "~> 2.0"
+  gem "lookbook", "~> 2.3"
 end
 
 group :development, :test do
