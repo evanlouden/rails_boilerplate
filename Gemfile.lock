@@ -428,5 +428,8 @@ DEPENDENCIES
   view_component (~> 3.23)
   yaaf (~> 3.0)
 
+RUBY VERSION
+   ruby 3.4.4p34
+
 BUNDLED WITH
    2.6.2
