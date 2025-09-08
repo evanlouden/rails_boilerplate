@@ -11,7 +11,7 @@ gem "jsbundling-rails"
 # gem "kamal", require: false
 gem "pg", "~> 1.5.9"
 gem "propshaft", "~> 1.2"
-gem "puma", "~> 6.6.0"
+gem "puma", "~> 7.0.1"
 gem "rails", "~> 8.0.2"
 gem "simple_form", "~> 5.3"
 gem "solid_cable"
