@@ -227,8 +227,8 @@ GEM
     psych (5.2.6)
       date
       stringio
-    public_suffix (6.0.2)
-    puma (6.6.0)
+    public_suffix (6.0.1)
+    puma (7.0.3)
       nio4r (~> 2.0)
     raabro (1.4.0)
     racc (1.8.1)
@@ -418,7 +418,7 @@ DEPENDENCIES
   pg (~> 1.6.2)
   propshaft (~> 1.2)
   pry-rails
-  puma (~> 6.6.0)
+  puma (~> 7.0.3)
   rails (~> 8.0.3)
   rspec-rails (~> 8.0)
   rubocop-rails-omakase (~> 1.1)
