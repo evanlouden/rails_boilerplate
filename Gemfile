@@ -9,7 +9,7 @@ gem "devise", "~> 4.9"
 # gem "image_processing", "~> 1.2"
 gem "jsbundling-rails"
 # gem "kamal", require: false
-gem "pg", "~> 1.6.2"
+gem "pg", "~> 1.6.3"
 gem "propshaft", "~> 1.3"
 gem "puma", "~> 7.1.0"
 gem "rails", "~> 8.0.3"
