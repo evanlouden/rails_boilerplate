@@ -20,7 +20,7 @@ gem "solid_queue"
 gem "stimulus-rails"
 gem "tailwindcss-rails", "~> 4.4"
 gem "turbo-rails"
-gem "view_component", "~> 4.1"
+gem "view_component", "~> 4.2"
 gem "yaaf", "~> 3.0"
 
 group :development do
