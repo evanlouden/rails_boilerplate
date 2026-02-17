@@ -1,10 +1,2 @@
-#!/usr/bin/env sh
-
-# Check if hivemind is installed
-if ! command -v hivemind >/dev/null 2>&1; then
-    echo "Hivemind is not installed"
-    echo "run brew install hivemind"
-    exit 1
-fi
-
-exec hivemind Procfile.dev
+#!/usr/bin/env ruby
+exec "./bin/rails", "server", *ARGV
