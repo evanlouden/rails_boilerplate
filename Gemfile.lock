@@ -81,7 +81,7 @@ GEM
     bigdecimal (4.0.1)
     bootsnap (1.19.0)
       msgpack (~> 1.2)
-    brakeman (7.1.2)
+    brakeman (8.0.2)
       racc
     builder (3.3.0)
     capybara (3.40.0)
@@ -407,13 +407,14 @@ PLATFORMS
   arm-linux-gnu
   arm-linux-musl
   arm64-darwin-24
+  arm64-darwin-25
   x86_64-linux
   x86_64-linux-gnu
   x86_64-linux-musl
 
 DEPENDENCIES
   bootsnap
-  brakeman
+  brakeman (~> 8.0.2)
   capybara (~> 3.40)
   devise (~> 4.9)
   factory_bot_rails (~> 6.5)
@@ -439,7 +440,7 @@ DEPENDENCIES
   yaaf (~> 3.0)
 
 RUBY VERSION
-   ruby 3.4.4p34
+   ruby 3.4.7p58
 
 BUNDLED WITH
    2.6.2
