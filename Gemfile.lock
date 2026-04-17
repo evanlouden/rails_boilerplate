@@ -80,7 +80,6 @@ GEM
     ast (2.4.2)
     base64 (0.3.0)
     bcrypt (3.1.20)
-    benchmark (0.5.0)
     bigdecimal (4.0.1)
     bootsnap (1.23.0)
       msgpack (~> 1.2)
@@ -401,7 +400,7 @@ GEM
     yaaf (3.0.2)
       activemodel (>= 5.2)
       activerecord (>= 5.2)
-    yard (0.9.38)
+    yard (0.9.42)
     zeitwerk (2.7.4)
 
 PLATFORMS
