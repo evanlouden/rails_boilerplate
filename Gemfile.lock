@@ -80,7 +80,6 @@ GEM
     ast (2.4.2)
     base64 (0.3.0)
     bcrypt (3.1.20)
-    benchmark (0.5.0)
     bigdecimal (4.0.1)
     bootsnap (1.23.0)
       msgpack (~> 1.2)
@@ -111,7 +110,7 @@ GEM
       warden (~> 1.2.3)
     diff-lcs (1.6.2)
     drb (2.2.3)
-    erb (6.0.1)
+    erb (6.0.1.1)
     erubi (1.13.1)
     et-orbi (1.4.0)
       tzinfo
