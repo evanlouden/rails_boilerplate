@@ -401,7 +401,7 @@ GEM
     websocket-extensions (0.1.5)
     xpath (3.2.0)
       nokogiri (~> 1.8)
-    yaaf (3.0.2)
+    yaaf (3.1.0)
       activemodel (>= 5.2)
       activerecord (>= 5.2)
     yard (0.9.44)
@@ -444,7 +444,7 @@ DEPENDENCIES
   tailwindcss-rails (~> 4.4)
   turbo-rails
   view_component (~> 4.12)
-  yaaf (~> 3.0)
+  yaaf (~> 3.1)
 
 RUBY VERSION
    ruby 3.4.7p58
