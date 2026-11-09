@@ -393,7 +393,7 @@ GEM
     unicode-emoji (4.3.0)
     uri (1.1.2)
     useragent (0.16.11)
-    view_component (4.20.0)
+    view_component (4.23.0)
       actionview (>= 7.1.0)
       activesupport (>= 7.1.0)
       prism (>= 1.0)
@@ -448,7 +448,7 @@ DEPENDENCIES
   stimulus-rails
   tailwindcss-rails (~> 4.7)
   turbo-rails
-  view_component (~> 4.20)
+  view_component (~> 4.23)
   yaaf (~> 3.1)
 
 RUBY VERSION
